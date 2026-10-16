@@ -5,7 +5,6 @@ TP 02 PHP — Programmation Web 2 — 2026/2027
 * **Prénom :** Elhamidi
 * **Groupe :** G1
 * **Année universitaire :** 2026/2027
-
 ## Liste des exercices
 * `index.php` : Page d'accueil avec liens vers tous les exercices.
 * `ex01.php` : Balises, affichage et commentaires.
