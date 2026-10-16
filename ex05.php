@@ -27,5 +27,6 @@ foreach ($valeurs_a_tester as $moyenne) {
 
     echo "Pour une moyenne de <strong>$moyenne</strong>, le message obtenu est : <em>$resultat</em><br>";
 }
+
 ?>
 </body></html>
