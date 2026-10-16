@@ -8,4 +8,5 @@ for ($i=1; $i<=9; $i++) {
 echo "<li><a href='ex10_get.html'>Exercice 10 GET</a></li>";
 echo "<li><a href='ex10_post.html'>Exercice 10 POST</a></li>";
 echo "</ul>";
+
 ?>
