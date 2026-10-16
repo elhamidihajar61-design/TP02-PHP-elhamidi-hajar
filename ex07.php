@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Exercice 7</title>
+    
 </head>
 <body>
 
