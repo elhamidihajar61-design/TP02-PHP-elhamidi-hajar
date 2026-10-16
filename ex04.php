@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+
     <meta charset="UTF-8">
     <title>Ex04</title>
+    
 </head>
 <body>
     <pre>
