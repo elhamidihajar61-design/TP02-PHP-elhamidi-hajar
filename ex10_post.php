@@ -20,6 +20,7 @@
         echo "<p>Veuillez remplir tous les champs du formulaire.</p>";
     }
     ?>
+    
     <p><a href="ex10_post.html">Retour au formulaire</a></p>
 </body>
 
