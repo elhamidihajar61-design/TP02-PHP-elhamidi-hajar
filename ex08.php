@@ -29,9 +29,11 @@ echo "DO-WHILE: $c2 execution(s)<br>";
 for($i=1;$i<=20;$i++){
   if($i%3==0) continue;
   if($i==16) break;
+  
   echo "$i ";
 }
 
 ?>
 </body>
+
 </html>
