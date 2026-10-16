@@ -68,6 +68,7 @@ $moyenneClasse = $sommeNotes / $nombreEtudiants;
     <h3>Statistiques de la classe</h3>
     <ul>
         <li><strong>Somme des notes :</strong> <?php echo $sommeNotes; ?></li>
+        
         <li><strong>Moyenne de la classe :</strong> <?php echo $moyenneClasse; ?></li>
         <li><strong>Nombre d'étudiants ayant validé :</strong> <?php echo $etudiantsValides; ?></li>
         <li><strong>Meilleure note :</strong> <?php echo $meilleureNote; ?> (obtenue par <?php echo $meilleurEtudiant; ?>)</li>
