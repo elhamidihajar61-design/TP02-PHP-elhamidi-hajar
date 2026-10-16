@@ -1,4 +1,5 @@
 <?php
+
 $nom = "Hajar";
 $age = 19;
 $prenom = "El hamidi";
